@@ -1,7 +1,7 @@
 ### Hello World. Here I am. / Olá, mundo. Aqui estou eu. 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_in.grid._/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=sem-ga_campid.12619604099_asid.149519181115_crid.725790844702_kw.linkedin_d.c_tid.kwd-148086543_n.g_mt.e_geo.1032126)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_in.grid._/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=sem-ga_campid.12619604099_asid.149519181115_crid.725790844702_kw.linkedin_d.c_tid.kwd-148086543_n.g_mt.e_geo.1032126)
 
 ---
 
@@ -25,5 +25,5 @@
 ---
 
 <div align="center">
-🌻 <b>"Versão: aprendendo. Status: evoluindo."</b> <br> 🌻 <b>"Version: learning. Status: evolving."</b>
+🌻 "Versão: aprendendo. Status: evoluindo." / "Version: learning. Status: evolving.” 🌻
 </div>
