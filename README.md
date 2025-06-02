@@ -25,5 +25,5 @@
 ---
 
 <div align="center">
-🌻 "Versão: aprendendo. Status: evoluindo." / "Version: learning. Status: evolving.” 🌻
+🌻 Versão: aprendendo. Status: evoluindo. / Version: learning. Status: evolving. 🌻
 </div>
